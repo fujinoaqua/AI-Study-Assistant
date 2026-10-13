@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Assistant",
+  "description": "An intelligent study platform with document-grounded AI summaries, smart Q&A, interactive quizzes, flashcard mastery, and study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
